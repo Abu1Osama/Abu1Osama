@@ -1,15 +1,17 @@
 <p>Hi There👋</p>
 <h1>I'm Abu Osama</h1>
 <h1>About me</h1>
-<p>Aspiring full stack web developer at Masai school. Self motivated and curious with a keen interest in building user friendly products. Looking forward to applying technical skills like CSS,MERN and JAVASCRIPT to all the organisations that I offer my services to and help the organisation grow and develop alongside me </p>
+<p>Aspiring full stack web developer at Masai school. Self motivated and curious with a keen interest in building user friendly productse </p>
 
-<p>Saharsa,Bihar</p>
+
 
 
 
 <p align="left" font >Like to build user friendly products and web applications with a specialization in MERN stack.</p>
 
+
 - 🔭 I’m currently working on *My existing Projects*
+- i am from Saharsa,Bihar
 
 - 🌱 I’m currently learning *React js*
 
