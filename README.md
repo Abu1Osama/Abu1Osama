@@ -1,4 +1,6 @@
 <p>Hi There👋</p>
+<h1>About me</h1>
+<p>Aspiring full stack web developer at Masai school. Self motivated and curious with a keen interest in building user friendly products. Looking forward to applying technical skills like CSS,MERN and JAVASCRIPT to all the organisations that I offer my services to and help the organisation grow and develop alongside me </p>
 <h1>I'm Abu Osama</h1>
 <p>Saharsa,Bihar</p>
 
