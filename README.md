@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on *My existing Projects*
-- i am from Saharsa,Bihar
+
 
 - 🌱 I’m currently learning *React js*
 
