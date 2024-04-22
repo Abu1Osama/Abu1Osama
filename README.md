@@ -1,7 +1,7 @@
 <p>Hi There👋</p>
 <h1>I'm Abu Osama</h1>
 <h1>About me</h1>
-<p>Aspiring full stack web developer at Masai school. Self-motivated and curious with a keen interest in building user-friendly projects.</p>
+<p>Aspiring full stack web developer. Self-motivated and curious with a keen interest in building user-friendly projects.</p>
 
 
 
