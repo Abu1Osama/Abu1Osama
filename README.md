@@ -169,7 +169,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu1Osama&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abu1Osama&layout=compact" alt="Top languages" />
  
 
 </p>
